@@ -49,7 +49,7 @@ Or,Import as a Sass Module in your Sass/Scss style file
 @import "skinny";
 ```
 
-The rest your can check my [Project Site]()
+The rest your can check my [Project Site](https://alivelee.github.io/Skinny-grid/index.html)
 
 ## TODOS
 
