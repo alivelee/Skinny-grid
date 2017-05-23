@@ -15,6 +15,14 @@ In case you don't have bower or npm
 npm install -g bower
 ```
 
+To install npm,recommond to use nvm(Node Version Manager)
+
+```
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+
+nvm install node //install latest node includes npm
+```
+
 ### Installing
 
 Install via Bower
@@ -29,7 +37,19 @@ Or use npm
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+##Quick start
+Include the style sheets into your HTML file's head element
+
+```
+<link rel="stylesheet" href="styles/skinny-grid.css">
+```
+Or,Import as a Sass Module in your Sass/Scss style file
+
+```
+@import "skinny";
+```
+
+The rest your can check my [Project Site]()
 
 ## TODOS
 
