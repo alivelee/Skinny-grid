@@ -37,7 +37,8 @@ Or use npm
 until finished
 ```
 
-##Quick start
+### Quick start
+
 Include the style sheets into your HTML file's head element
 
 ```html
