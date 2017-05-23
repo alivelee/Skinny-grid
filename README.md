@@ -40,12 +40,12 @@ until finished
 ##Quick start
 Include the style sheets into your HTML file's head element
 
-```
+```html
 <link rel="stylesheet" href="styles/skinny-grid.css">
 ```
 Or,Import as a Sass Module in your Sass/Scss style file
 
-```
+```scss
 @import "skinny";
 ```
 
