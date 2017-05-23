@@ -55,7 +55,7 @@ The rest your can check my [Project Site](https://alivelee.github.io/Skinny-grid
 
 - [x] Bower Support
 - [ ] NPM Support
-- [ ] Working Example
+- [ ] Examples
 
 
 
