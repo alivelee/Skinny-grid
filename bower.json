@@ -1,0 +1,21 @@
+{
+  "name": "Skinny-grid",
+  "homepage": "https://github.com/alivelee/Skinny-grid",
+  "authors": [
+    "Xu Lei <a871460434@gmail.com>"
+  ],
+  "description": "A lightweight prue flexbox css framework",
+  "main": "skinny.css",
+  "keywords": [
+    "flexbox",
+    "css3"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
