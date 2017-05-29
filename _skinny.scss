@@ -89,7 +89,6 @@ nav.nav-container {
 .s-photo-block {
   position: relative;
   overflow:hidden;
-  width:500px;
   flex:auto;
   background: #000;
   img {
@@ -240,4 +239,8 @@ p {
     display: none;
   }
 }
-
+@media (min-width:768px) {
+  .s-photo-block {
+    width: 500px;
+  }
+}
